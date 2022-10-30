@@ -1,0 +1,21 @@
+.checked {
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+    padding-left: 20px;
+    background:url(../opdracht_6/images/checkedbox.png) no-repeat;
+    height: 30px;
+    width: 30px;
+    background-size: 40%;
+}
+
+li {
+    background:url(../opdracht_6/images/checkedboxempty.png) no-repeat;
+    position: relative;
+    box-sizing: border-box;
+    padding-left: 20px;
+    height: 30px;
+    width: 30px;
+    display: block;
+    background-size: 40%;
+}
